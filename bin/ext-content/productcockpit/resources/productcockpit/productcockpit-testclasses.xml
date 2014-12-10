@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testclasses>
+  <productcockpit>
+    <testclass>de.hybris.platform.productcockpit.jalo.ProductcockpitTest</testclass>
+    <testclass>com.myoptique.hybris.service.impl.DefaultCloneProductServiceUnitTest</testclass>
+    <testclass>com.myoptique.hybris.service.impl.DefaultCloneProductServiceTest</testclass>
+  </productcockpit>
+</testclasses>
